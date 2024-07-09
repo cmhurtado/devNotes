@@ -126,12 +126,15 @@ That is so funny! :joy:
 
 ### Highlight
 
-I need to highlight these ==very important words==.
+I need to highlight these ==very important words==.<mark> really important words</mark>
 
 ### Subscript
 
 H~2~O
 
+H<sub>2</sub>O
 ### Superscript
+X<sup>2</sup>
+
 
 X^2^
