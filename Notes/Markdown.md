@@ -2,18 +2,21 @@
 
 # Headings
 
-you can browse between Heading levels with #, each time you add another # it twill 
+you can browse between Heading levels with #, each time you add another # it twill
 
 ## Examples
 
 # Level 1
+
 ## Level 2
+
 ### Level 3
+
 #### Level 4
+
 ##### Level 5
 
 # Markdown Cheat Sheet
-
 
 ## Basic Syntax
 
@@ -22,7 +25,9 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Heading
 
 # H1
+
 ## H2
+
 ### H3
 
 ### Bold
@@ -51,7 +56,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Code
 
-`code`
+`x = helloWorld...`
 
 ### Horizontal Rule
 
@@ -59,11 +64,13 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Link
 
-[Markdown Guide](https://www.markdownguide.org)
+[Click here to see the original guide](https://www.markdownguide.org)
 
 ### Image
+>
+>```![Input text if image not found](https://www.markdownguide.org/assets/images/tux.png)```
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![Image not found](https://www.markdownguide.org/assets/images/tux.png)
 
 ## Extended Syntax
 
@@ -128,4 +135,3 @@ H~2~O
 ### Superscript
 
 X^2^
-
