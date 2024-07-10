@@ -1,5 +1,17 @@
-<html> </html>
+# HTML Syntax
+html stands for " i dont rmember" and every document starts and ed wih the element   
+`<html> </html>`
 <h1..2..3.....6>
+# Basic HTML elements
+- Content elements: It starts with a `<element></element>`
+- Void Elements: does not need a closing tag `<img>` examples of void elements are: area, base, br, col, command, embed, hr, img, input, keygen, link, meta, param, source, track, wbr.
+
+## Font modifiers
+
+### Comments
+ Comments are important for describing the next line of code.
+`<!-- Comments -->`
+
 <!-- Comments -->
 <p> paragraph </p>
 
