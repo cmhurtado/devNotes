@@ -88,3 +88,82 @@ attributes are type name (placeholder is like a hint)
 input and button are inline elements so they will show automatically on the same line
 
 radio buttons for questions where you only want one answer out of multiple options.
+---
+# SMOL James Input
+## Typography Tags/elements : Opening and Closing
+### paragraph tag
+
+`<p>hello world </p>`
+
+### header tag
+`<h1> Header </h1>`
+
+## Utility Tags
+### anchor tag
+you can set a text or image to redirect you to another instance.
+- ATTRIBUTES
+- href = the address where the anchor is going to be redirected
+- target = whether you want to open a another tab/window or redirect on the sam instance
+
+`<a href = "any address" target= "_blank"> children content - shown on html document</a>`
+### image tag
+show an image in your document,
+- ATTRIBUTES
+- src = the image's address
+- alt = default text when the image is not found or could not be loaded.
+`<img src="image address" alt="default text">`
+
+### input tag
+it opens a textbox where user is prompted to enter info, it is of good syntax to put them inside a label tag
+- ATTRIBUTES
+- placeholder = default text shown to the user
+`<label><input placeholder="Prompt the user"></label>`
+
+### button tag
+Shows a button on screen and you can add functionlaity. you can put a paragraph tag inside the button tag to add text to the button.
+
+## Container Tags
+- Container tags are utilized for styling leveraging on the division.
+### division tag
+generic divider container
+`<div></div>`
+### form tag
+wraps section of user input.it adds semantic meaning to your input tags
+`<form> </form>`
+### section tag
+greater division, they are more useful when adding styles. SImilar to a page break
+
+## NOTE:
+By typing ! in the index.html file it can launch the visual studio to boil a plate of code
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+## Head Tag
+It will work as Search engine optimization, and will have the meta information of the file.
+
+```
+<header> </header>
+  <h1> </h1>
+  <nav>
+    <a href="#footer">
+      <p>Footer</p>
+    </a>
+   </nav>
+   <main> </main>
+<footer id="footer"></footer>
+```
+## Style atribute
+```
+<img style ="width>
+
